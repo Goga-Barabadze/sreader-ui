@@ -8,10 +8,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25"
+    "@vue-icons/feather": "^1.0.19",
+    "epubjs": "^0.3.93",
+    "safe-buffer": "^5.2.1",
+    "torrent-search-api": "^2.1.4",
+    "vue": "^3.2.33"
   },
   "devDependencies": {
+    "@types/torrent-search-api": "^2.0.0",
     "@vitejs/plugin-vue": "^2.3.1",
+    "cross-env": "^7.0.3",
+    "node-sass": "^7.0.1",
+    "sass-loader": "^12.6.0",
     "typescript": "^4.5.4",
     "vite": "^2.9.2",
     "vue-tsc": "^0.29.8"
