@@ -1,0 +1,31 @@
+{
+  "name": "sreader-ui",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue-icons/feather": "^1.0.19",
+    "browserify": "^17.0.0",
+    "epubjs": "^0.3.93",
+    "opensubtitles-api": "^5.1.2",
+    "safe-buffer": "^5.2.1",
+    "torrent-search-api": "^1.0.27",
+    "vue": "^3.2.33",
+    "youtube-captions-scraper": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/browserify": "^12.0.37",
+    "@types/torrent-search-api": "^2.0.0",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "cross-env": "^7.0.3",
+    "node-sass": "^7.0.1",
+    "sass-loader": "^12.6.0",
+    "typescript": "^4.6.4",
+    "vite": "^2.9.6",
+    "vue-tsc": "^0.34.11"
+  }
+}
