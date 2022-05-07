@@ -40,24 +40,19 @@ import {BarChart2Icon} from "@vue-icons/feather"
   display: flex;
   flex-direction: column;
 
-  border-radius: 5px;
+  border-radius: 14px;
   align-items: center;
 }
 
-/* The navigation menu links */
-.sidenav a {
+a {
+  color: darkgray;
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: black;
+  transform: translateX(-10%) translateY(-15%);
 }
 
 .sidenav a:hover {
-  fill: black;
-}
-
-.main {
-  margin-left: 70px; /* Same as the width of the sidebar */
-  padding: 0 10px;
+  color: black;
 }
 </style>

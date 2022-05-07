@@ -1,0 +1,37 @@
+{
+  "books": {
+    "sakdanskdjnaskd12": {
+      "title": "The War of Art: Winning the Inner Creative Battle",
+      "authors": [
+        {
+          "role": "author",
+          "firstname": "Steven",
+          "lastname": "Pressfield"
+        },
+        {
+          "role": "foreword",
+          "firstname": "Robert",
+          "lastname": "McKee"
+        }
+      ],
+      "description": "Internationally bestselling author of Last of the Amazons, Gates of Fire, and Tides of War, Steven Pressfield delivers a guide to inspire and support those who struggle to express their creativity. Pressfield believes that “resistance” is the greatest enemy, and he offers many unique and helpful ways to overcome it.",
+      "lang": "en",
+      "originalLang": "en",
+      "frontCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574272133l/1319._SY475_.jpg"
+    },
+    "quien12ieun1idunaös": {
+      "title": "Life of Pi",
+      "authors": [
+        {
+          "role": "author",
+          "firstname": "Yann",
+          "lastname": "Martel"
+        }
+      ],
+      "description": "Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor \"Pi\" Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.",
+      "lang": "en",
+      "originalLang": "en",
+      "frontCover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631251689l/4214._SY475_.jpg"
+    }
+  }
+}
